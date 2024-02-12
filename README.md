@@ -1,6 +1,5 @@
 ### Hi there👋. I'm Eric
 - 🎓 I'm currently studying computer engineering.
-- 📱  I'm working on an android app called Bulk Nation. 
 - 📫 How to reach me: eriic1002@gmail.com
 <!--
 **eriic1002/eriic1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
