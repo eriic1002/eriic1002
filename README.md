@@ -1,7 +1,6 @@
 ### Hi there👋. I'm Eric
 - 🎓 I'm currently studying computer engineering.
 - 📫 How to reach me: eriic1002@gmail.com
-- 🌐 My Blog: [Eric's Blog](https://eriic1002.github.io)
 <!--
 **eriic1002/eriic1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
